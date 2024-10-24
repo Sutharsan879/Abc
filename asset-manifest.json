@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4c3fac3.css",
+    "main.js": "/static/js/main.5e8b67e7.js",
+    "static/js/453.9ebc09cf.chunk.js": "/static/js/453.9ebc09cf.chunk.js",
+    "static/media/plumber.jpg": "/static/media/plumber.0a4e9a7ff5ff1c98831a.jpg",
+    "static/media/logo.png": "/static/media/logo.fa254ef084900065da82.png",
+    "static/media/images": "/static/media/images.a5d4ca14d1c9f1e9bd0c",
+    "index.html": "/index.html",
+    "main.d4c3fac3.css.map": "/static/css/main.d4c3fac3.css.map",
+    "main.5e8b67e7.js.map": "/static/js/main.5e8b67e7.js.map",
+    "453.9ebc09cf.chunk.js.map": "/static/js/453.9ebc09cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c3fac3.css",
+    "static/js/main.5e8b67e7.js"
+  ]
+}
